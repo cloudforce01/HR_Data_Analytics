@@ -22,7 +22,13 @@ The data for this analysis was sourced from [here](https://drive.google.com/driv
 
 ###### Chart 1: Attrition by Education (pie chart)
 
-This chart provides a breakdown of the education level of employees who have left the company, which can help to identify any patterns or trends in the data.        <img title="" src="images/Attrition_By_Edu.png" alt="" data-align="left">
+This chart provides a breakdown of the education level of employees who have left the company, which can help to identify any patterns or trends in the data. 
+
+
+
+![](images/Attrition_By_Edu.png)
+
+
 
 ###### Chart 2: Attrition by Job Role (bar chart)
 
@@ -130,10 +136,12 @@ In conclusion, the integration of dynamic data sources into the HR Analytics Das
 
 To download the Power BI dashboard:
 
-1. Clone the repository using the below command
-   
-   git clone https://github.com/cloudforce01/HR_Data_Analytics"
+1. Begin by opening either Command Prompt, Terminal, or Git Bash, depending on your operating system. Once opened, use the appropriate commands to navigate to the desired directory on your local machine where you want to clone the GitHub repository.
 
-2. Navigate to the directory where the repository was cloned using the cd command.
+2. Clone the repository using the below command
 
-3. Open the HR_Data_Analytics.pbix file in Power BI to view the dashboard.
+    git clone https://github.com/cloudforce01/HR_Data_Analytics"
+
+3. Navigate to the directory where the repository was cloned using the cd command.
+
+4. Open the HR_Data_Analytics.pbix file in Power BI to view the dashboard.
